@@ -27,3 +27,6 @@ Welcome to my portfolio! This repository tracks my 12-week roadmap towards maste
 - **Tools:** Streamlit / Dash
 - **Status:** *Planned*
 -
+## 📜 Regulatory Baseline & Certifications
+- [x] **NIDA Good Clinical Practice (GCP)** — *Modules 1&2 Completed*
+- [ ] **HIPAA & Data Privacy Compliance**
